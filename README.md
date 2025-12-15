@@ -51,6 +51,13 @@ Secured endpoints can be tested by providing a JWT token using the **Authorize**
 
 ---
 
+## Important Note
+
+* The UI used to interact with this backend is for demonstration purposes only and is not the primary focus of this project.
+* This repository emphasizes backend architecture, security, and API design.
+
+---
+
 ## License
 
 MIT License
