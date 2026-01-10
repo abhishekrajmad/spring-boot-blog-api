@@ -17,6 +17,7 @@ A production-ready blog backend built with **Spring Boot**, implementing JWT-bas
 * Optimized database access (batch fetching, JOIN FETCH)
 * Global exception handling with standardized API responses
 * Interactive API documentation using Swagger
+* Containerized with Docker and Docker Compose for easy setup and deployment
 
 ---
 
@@ -28,6 +29,7 @@ A production-ready blog backend built with **Spring Boot**, implementing JWT-bas
 * **PostgreSQL**
 * **MapStruct**
 * **Swagger (OpenAPI 3)**
+* **Docker & Docker Compose**
 
 ---
 
