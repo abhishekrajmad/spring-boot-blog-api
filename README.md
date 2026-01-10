@@ -31,6 +31,13 @@ A production-ready blog backend built with **Spring Boot**, implementing JWT-bas
 
 ---
 
+## Docker Setup
+
+This project includes a Dockerfile and docker-compose.yml for easy containerization.  
+Run `docker-compose up` to start the app in a containerized environment.
+
+---
+
 ## API Documentation (Swagger)
 
 Interactive API documentation is available via Swagger.
